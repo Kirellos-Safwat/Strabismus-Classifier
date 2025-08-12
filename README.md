@@ -21,6 +21,12 @@ pip install -r requirements.txt
 ```
 Python 3.10+ and TensorFlow 2.14+ recommended.
 
+## Dataset
+- Source: [Kaggle — Strabismus Dataset](https://www.kaggle.com/datasets/ananthamoorthya/strabismus)
+- After download, extract to `STRABISMUS/` with the following subfolders:
+  - `NORMAL/`, `ESOTROPIA/`, `EXOTROPIA/`, `HYPERTROPIA/`, `HYPOTROPIA/`
+- This repository does not include data. Please review and comply with the dataset license/terms of use.
+
 ## Usage
 
 ### 1) Assemble and evaluate from existing models (recommended)
