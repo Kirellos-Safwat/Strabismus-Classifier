@@ -1,0 +1,41 @@
+# Data
+STRABISMUS/
+BINARY_*/
+reports/
+
+# Models
+*.h5
+*.keras
+meta_classifier.pkl
+
+# Outputs and plots
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+test_binary_model.py
+generate_report.py
+binary_classifier.py
+realistic_model.py
+test_realistic_model.py
+test_binary_model.py
+test_model.py
+test_training.py
+binary_classifier.py
+build_ensemble_from_existing.py
+CLEANUP_INSTRUCTIONS.md
+quick_ensemble_test.py
+realistic_ensemble_model.py
+smoke_test_ensemble_build.py
+simulated_ensemble_demo.py
+simple_ensemble_demo.py
+realistic_ensemble_demo.py
+compare_approaches.py
+
+# OS
+.DS_Store
+Thumbs.db

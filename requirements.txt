@@ -1,0 +1,7 @@
+tensorflow>=2.14
+keras>=2.14
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
